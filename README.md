@@ -8,8 +8,6 @@
 | 99291  | Nuno Alves      | <https://github.com/nalves599>     | <mailto:nuno.f.alves@tecnico.ulisboa.pt>   |
 | 99341  | Tomás Esteves  | <https://github.com/Pesteves2002> | <mailto:tomasesteves2002@tecnico.ulisboa.pt> |
 
-![Diogo Melita](img/diogo.png) ![Nuno Alves](img/nuno.png) ![Tomás Esteves](img/tomas.png)
-
 ## Contents
 
 This repository contains documentation and source code for the *Network and Computer Security (SIRS)* project.
